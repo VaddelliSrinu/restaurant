@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/VaddelliSrinu/restaurant.git/static/css/main.235552f4.css",
+    "main.js": "/VaddelliSrinu/restaurant.git/static/js/main.ceddf743.js",
+    "static/media/home-banner-image.png": "/VaddelliSrinu/restaurant.git/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/VaddelliSrinu/restaurant.git/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/home-banner-background.png": "/VaddelliSrinu/restaurant.git/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/VaddelliSrinu/restaurant.git/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/VaddelliSrinu/restaurant.git/index.html",
+    "main.235552f4.css.map": "/VaddelliSrinu/restaurant.git/static/css/main.235552f4.css.map",
+    "main.ceddf743.js.map": "/VaddelliSrinu/restaurant.git/static/js/main.ceddf743.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.235552f4.css",
+    "static/js/main.ceddf743.js"
+  ]
+}
